@@ -11,5 +11,4 @@ class ChattyStudent < Student
       return 'Pick me!'
       end
     end
-
 end
