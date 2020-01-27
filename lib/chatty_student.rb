@@ -10,6 +10,6 @@ class ChattyStudent < Student
       10.times do |s|
         "Pick me!"
       end
-  end
+    end
 
 end
